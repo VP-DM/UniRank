@@ -4,7 +4,8 @@
   "description": "MERN is used (MongoDB, Express.js, React, Node.js).",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,9 @@
   "dependencies": {
     "express": "^4.19.2",
     "mongoose": "^8.4.1"
-  }
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "keywords": []
 }

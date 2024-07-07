@@ -4,27 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f01e331652eade51",
+        "id": "7bd0ad8a387ed96d",
         "type": "tabs",
         "children": [
           {
-            "id": "53dba554699ca974",
+            "id": "08adca66b0fc0e39",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "DOCUMENTATION.md",
-                "mode": "source",
-                "source": false
+                "file": "Workflow.canvas",
+                "viewState": {
+                  "x": 253.32564950034072,
+                  "y": 323.84433282989255,
+                  "zoom": -0.42335798079770026
+                }
               }
-            }
-          },
-          {
-            "id": "b8fd1ac827ee0e8f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -93,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DOCUMENTATION.md",
+                "file": "Workflow.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DOCUMENTATION.md",
+                "file": "Workflow.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DOCUMENTATION.md"
+                "file": "Workflow.canvas"
               }
             }
           }
@@ -154,10 +149,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53dba554699ca974",
+  "active": "08adca66b0fc0e39",
   "lastOpenFiles": [
-    "Methodology.md",
     "DOCUMENTATION.md",
+    "Methodology.md",
+    "Workflow.canvas",
+    "Node.js.md",
+    "[Markdown.md",
     "create a link.md"
   ]
 }
