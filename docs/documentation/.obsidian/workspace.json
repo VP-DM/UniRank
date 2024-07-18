@@ -11,14 +11,11 @@
             "id": "08adca66b0fc0e39",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Workflow.canvas",
-                "viewState": {
-                  "x": 253.32564950034072,
-                  "y": 323.84433282989255,
-                  "zoom": -0.42335798079770026
-                }
+                "file": "Methodology.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow.canvas",
+                "file": "Methodology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Workflow.canvas",
+                "file": "Methodology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Workflow.canvas"
+                "file": "Methodology.md"
               }
             }
           }
@@ -151,10 +148,10 @@
   },
   "active": "08adca66b0fc0e39",
   "lastOpenFiles": [
+    "Node.js.md",
+    "Workflow.canvas",
     "DOCUMENTATION.md",
     "Methodology.md",
-    "Workflow.canvas",
-    "Node.js.md",
     "[Markdown.md",
     "create a link.md"
   ]
